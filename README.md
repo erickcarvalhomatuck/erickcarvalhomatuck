@@ -1,4 +1,4 @@
-## ⚖️Oii, eu sou o Erick Matuck, estudante de Direito e desenvolvedor de soluções jurídicas com Python!⚖️
+## Oii, eu sou o Erick Matuck, estudante de Direito e desenvolvedor de soluções jurídicas com Python!
 
 
 Atualmente, estou cursando graduação em Direito e, nas horas vagas, desenvolvo programas que ajudam a simplificar o cotidiano de estudantes de Direito e advogados. Minha principal linguagem de programação é o Python, e busco criar ferramentas acessíveis para a área jurídica.⚖️
