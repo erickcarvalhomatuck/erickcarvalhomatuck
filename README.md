@@ -1,11 +1,8 @@
-## Oii, eu sou o Erick Matuck, estudante de Direito e desenvolvedor de soluções jurídicas com Python!
+## Hi there, I'm Erick Matuck, a law student and developer of legal solutions with Python!
+
+I am currently studying Law and, in my spare time, I develop programs that help simplify the daily lives of law students and lawyers. My main programming language is Python, and I seek to create accessible tools for the legal field.⚖️
 
 
-Atualmente, estou cursando graduação em Direito e, nas horas vagas, desenvolvo programas que ajudam a simplificar o cotidiano de estudantes de Direito e advogados. Minha principal linguagem de programação é o Python, e busco criar ferramentas acessíveis para a área jurídica.⚖️
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickcarvalhomatuck&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcarvalhomatuck&layout=compact)
 
 <div style="display: inline_block"><br>
