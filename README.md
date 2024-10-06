@@ -14,7 +14,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 </div>
   
   ##
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickcarvalhomatuck&show_icons=true&theme=transparent)
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
