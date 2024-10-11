@@ -19,3 +19,8 @@ I am currently studying Law and, in my spare time, I develop programs that help 
   <a href="https://www.linkedin.com/in/rerick-c-matuck-bb6070221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/erickcarvalhomatuck/count.svg" /></p> 
+  <br>
+</div>
