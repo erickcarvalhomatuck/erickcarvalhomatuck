@@ -3,14 +3,15 @@
 I am currently studying Law and, in my spare time, I develop programs that help simplify the daily lives of law students and lawyers. My main programming language is Python, and I seek to create accessible tools for the legal field.⚖️
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcarvalhomatuck&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcarvalhomatuck&layout=compact)
+
   ##
 
 <div> 
